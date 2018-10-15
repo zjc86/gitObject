@@ -10,4 +10,9 @@ public class A{
 	
 	}		
 	
+	public void setM(int m){
+		this.m=m;
+	}
+
+
 }
