@@ -1,1 +1,6 @@
-public class A{}
+public class A{
+	private int i;
+	
+	
+	
+}
